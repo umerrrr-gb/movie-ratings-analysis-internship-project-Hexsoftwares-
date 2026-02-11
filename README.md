@@ -10,80 +10,81 @@ This project was completed as part of my Data Science Internship at Hex Software
 
 Objectives:
 
-Clean and preprocess movie ratings data
+-- Clean and preprocess movie ratings data
 
-Perform exploratory data analysis (EDA)
+-- Perform exploratory data analysis (EDA)
 
-Calculate summary statistics (mean, median, mode)
+-- Calculate summary statistics (mean, median, mode)
 
-Identify top-rated movies and genres
+-- Identify top-rated movies and genres
 
-Visualize insights using Python and Power BI
+-- Visualize insights using Python and Power BI
 
-Build an interactive dashboard for presentation
+-- Build an interactive dashboard for presentation
 
-🛠 Tools & Technologies
+Tools & Technologies:
 
-Python (Pandas, NumPy)
+-- Python (Pandas, NumPy)
 
-Matplotlib & Seaborn
+-- Matplotlib & Seaborn
 
-Google Colab
+-- Google Colab
 
-Power BI
+-- Power BI
 
-GitHub
+-- GitHub
 
 Data Exploration & Cleaning
 
-Selected relevant features (title, rating, votes, genre, year)
+-- Selected relevant features (title, rating, votes, genre, year)
 
-Handled missing and inconsistent values
+-- Handled missing and inconsistent values
 
-Converted data types for analysis and visualization
+-- Converted data types for analysis and visualization
 
-Created a clean dataset suitable for Power BI dashboards
+-- Created a clean dataset suitable for Power BI dashboards
 
 Analysis Performed
 
-Summary statistics of IMDB ratings
+-- Summary statistics of IMDB ratings
 
-Distribution analysis using histograms and boxplots
+-- Distribution analysis using histograms and boxplots
 
-Identification of top-rated movies based on ratings and votes
+-- Identification of top-rated movies based on ratings and votes
 
-Genre-wise average rating analysis
+-- Genre-wise average rating analysis
 
-Trend analysis of ratings over years
+-- Trend analysis of ratings over years
 
-Power BI Dashboard
+-- Power BI Dashboard
 
 An interactive Power BI dashboard was created to visualize:
 
-Rating distribution
+-- Rating distribution
 
-Top 10 movies by rating
+-- Top 10 movies by rating
 
-Average rating by genre
+-- Average rating by genre
 
-Movie count by genre
+-- Movie count by genre
 
-Rating trends over time
+-- Rating trends over time
 
-Interactive filters by genre and year
+-- Interactive filters by genre and year
 
 Dashboard Preview:
-(Add your screenshot here)
+
+<img width="745" height="417" alt="dashboard" src="https://github.com/user-attachments/assets/dfc23570-90b2-451e-93f2-35742550ec0c" />
 
 Key Insights:
 
-Certain genres consistently achieve higher average ratings
+-- Certain genres consistently achieve higher average ratings
 
-Most movies fall within the 6.5–8.0 rating range
+-- Most movies fall within the 6.5–8.0 rating range
 
-Audience ratings show noticeable trends across years
+-- Audience ratings show noticeable trends across years
 
-Votes play an important role in rating credibility
+-- Votes play an important role in rating credibility
 
 Author:
 
